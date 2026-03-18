@@ -15,7 +15,7 @@ This project is an educational website for sharing homework assignments and codi
 - Keep file and folder names descriptive and organized
 - Always use British English spelling and grammar
 - Ensure all content is accessible and mobile-friendly
-- When using or creating code samples always comment code samples inline so that all code is documented and easy to understand for studnts
+- When using or creating code samples always comment code samples inline so that all code is documented and easy to understand for students
 
 ## Educational Standards
 
